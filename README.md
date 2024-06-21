@@ -1,4 +1,4 @@
-# 狗呆 :link: https://telltear.github.io/telltearown.github.io 
+# [狗呆](https://xn--0rr43pt3icinrw6b6pa.xyz/)
 ### :page_facing_up: [1](https://telltear.github.io/telltearown.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 16 
