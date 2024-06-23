@@ -1,7 +1,6 @@
-# [狗呆星际门将](https://www.yuliytech.top/)
-## 一个在GitHub写作的项目，希望长期坚持下去。
-### 文章数目 :page_facing_up: [1](https://telltear.github.io/telltearown.github.io/tag.html) 
-### 评论数目 :speech_balloon: 0 
-### 小红花 :hibiscus: 16 
-### 开始时间 :alarm_clock: 2024-06-20 19:35:09 
+# 尤里科技 :link: https://telltear.github.io/telltearown.github.io 
+### :page_facing_up: [1](https://telltear.github.io/telltearown.github.io/tag.html) 
+### :speech_balloon: 0 
+### :hibiscus: 16 
+### :alarm_clock: 2024-06-23 16:43:49 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
