@@ -1,4 +1,4 @@
-# 尤里科技 :link: https://yuliy.top
+# [尤里科技](https://yuliy.top)
 ### :page_facing_up: [1](https://telltear.github.io/telltearown.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 16 
