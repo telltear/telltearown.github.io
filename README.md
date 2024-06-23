@@ -1,6 +1,6 @@
-# [尤里科技](https://yuliy.top)
+# 尤里科技 :link: https://telltear.github.io/telltearown.github.io 
 ### :page_facing_up: [1](https://telltear.github.io/telltearown.github.io/tag.html) 
-### 文章数 :speech_balloon: 0 
-### 爱心数 :hibiscus: 16 
-### 创建日 :alarm_clock: 2024-06-23 16:49:46 
+### :speech_balloon: 0 
+### :hibiscus: 16 
+### :alarm_clock: 2024-06-23 23:46:36 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
